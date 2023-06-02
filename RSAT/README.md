@@ -2,9 +2,10 @@
 
 and the rest of the module files at this path: ```C:\Windows\System32\WindowsPowerShell\v1.0\Modules\ActiveDirectory\```"
 
+* * * 
+
 To be able to list all the cmdlets in the module, import the module as well. Remember to import the DLL first.
 
-* * * 
 
 ```
 Import-Module C:\ActiveDirectory\RSAT\Microsoft.ActiveDirectory.Management.dll -Verbose
