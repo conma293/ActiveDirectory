@@ -4,6 +4,8 @@ and the rest of the module files at this path: ```C:\Windows\System32\WindowsPow
 
 To be able to list all the cmdlets in the module, import the module as well. Remember to import the DLL first.
 
+* * * 
+
 ```
 Import-Module C:\ActiveDirectory\RSAT\Microsoft.ActiveDirectory.Management.dll -Verbose
 ```
